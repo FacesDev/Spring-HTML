@@ -1,0 +1,8 @@
+* {
+background-image: blue;
+}
+
+.background {
+background-image: url('http://www.placecage.com/gif/700/900');
+background-size: contain;
+}
